@@ -1,0 +1,20 @@
+/* Donna Quach, JavaScript 310B, Autumn 2023 */
+/* Class 7 Exercises */
+
+input:invalid {
+    box-shadow: 2px 2px 5px red; 
+}
+
+select:invalid:required {
+    box-shadow: 2px 2px 5px red;
+}
+
+input:invalid:required {
+    background-image: linear-gradient(to right, pink, orange);
+}
+
+input:valid {
+    border: 1px solid green; 
+}
+
+
